@@ -1,4 +1,4 @@
-#escolabrasileiradejogos.github.io
+# escolabrasileiradejogos.github.io
 
 <html>
 <body>
